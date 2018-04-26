@@ -10,6 +10,8 @@ aïoli
 Boötes  
 cacoëpistic  
 caïque  
+coöccurr
+coöccurrence  
 coöp  
 coöped  
 coöperate  
@@ -23,9 +25,12 @@ coöpting
 coöption  
 coördinate  
 coördinator  
+coössify  
+demosaïcking  
 faröelite  
 haliæëtos  
 hyperoödon  
+intraätomic  
 langue d’oïl  
 Laocoön  
 Moët  
@@ -34,11 +39,19 @@ mosaïc
 naïve  
 naïveté  
 Noël  
+palaeoöceanography  
+paleoöceanography  
 panzoöty  
+proöxidant  
 reëlect  
+reëmergence  
+reënact  
+reëxamine  
+reïnvent 
 Thaïs  
 Zoë  
 zoölogical  
+zoölogy  
 
 ## Contribute
 
