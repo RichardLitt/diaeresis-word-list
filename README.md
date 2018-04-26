@@ -34,7 +34,7 @@ coördination
 coördinator  
 coördinators  
 coössify  
-Creüsa   
+Creüsa  
 daïs  
 demosaïcking  
 faïence  
@@ -76,7 +76,7 @@ reëstablish
 reëstablished  
 reëstablishing  
 reëxamine  
-reïnvent 
+reïnvent  
 residuüm  
 Thaïs  
 Zaïre  
