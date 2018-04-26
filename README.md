@@ -2,7 +2,7 @@
 
 > A list of words that you can coöpt to use the diaeresis
 
-This list comprises English words which allow the use of the diaeresis.
+This list comprises English words which allow the use of the diaeresis. You can read about the diaeresis in [this wonderful StackExchange post](https://english.stackexchange.com/questions/66126/what-is-the-standard-rule-for-using-or-not-using-hyphen-and-diaeresis-on-the-wor).
 
 ## Words
 
