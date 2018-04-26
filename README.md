@@ -79,6 +79,7 @@ reëxamine
 reïnvent  
 residuüm  
 Thaïs  
+vacuüm  
 Zaïre  
 Zoë  
 zoölogical  
