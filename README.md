@@ -78,6 +78,7 @@ reëstablishing
 reëxamine  
 reïnvent  
 residuüm  
+rôle
 Thaïs  
 vacuüm  
 Zaïre  
